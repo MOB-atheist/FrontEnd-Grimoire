@@ -2,7 +2,7 @@
 
 Things i learn daily, so i can remember
 
-## Javascript
+# Javascript
 
 ### if shorthands
 
@@ -140,7 +140,46 @@ Things i learn daily, so i can remember
     }
 ```
 
-## React.js
+# Javascript odities
+
+## Null is an object so to evaluate it  
+
+```javascript
+    alert(typeof null); // alerts 'object'
+    alert(null instanceof Object); // evaluates false
+```
+
+### NaN is a number, to evaluate it you can just compare it with another NaN
+
+```javascript
+    alert(typeof NaN); // alerts 'Number'
+    alert(NaN === NaN); // evaluated false
+```
+
+### Replace has a callBack, for every match callBack is called
+
+```javascript
+    alert('10 13 21 48 52'.replace(/\d/g, function(match) {
+        return parseInt(match) < 3 ? '*' : match; 
+    })); ** *3 ** 48  5*
+```
+
+### Undefined is not reserved, it can be used inside scopes
+
+```javascript
+    (function() {
+        var undefined = 'foo'; 
+        alert(undefined, typeof undefined); // foo string
+    })(); 
+```
+
+### Array with no keys evaluates to false when no type evaluation is used
+
+```javascript
+    alert(new Array() == false); // evaluates true
+```
+
+# React.js
 
 ### useState
 
