@@ -8,7 +8,9 @@ Heres a collection of links with usefull websites and tips.
 <details>
     <summary>Image color picker</summary>
     <br>
-        <a href="https://imagecolorpicker.com/pt-pt" target="_blank">Access</a>
+        <a href="https://imagecolorpicker.com/pt-pt" target="_blank">
+            <img src="images/button.png" />
+        </a>
     <br><br>
     <img src="images/image-color-picker.png"/>
 </details>
@@ -17,7 +19,9 @@ Heres a collection of links with usefull websites and tips.
 <details>
     <summary>Ui Snippets</summary>
     <br>
-        <a href="https://ui-snippets.dev/" target="_blank">Access</a>
+        <a href="https://ui-snippets.dev/" target="_blank">
+            <img src="images/button.png" />
+        </a>
     <br><br>
     <img src="images/ui-snippets.png" />
 </details>
@@ -26,7 +30,9 @@ Heres a collection of links with usefull websites and tips.
 <details>
     <summary>Adobe color wheel</summary>
     <br>
-        <a href="https://color.adobe.com/pt/create/color-wheel" target="_blank">Access</a>
+        <a href="https://color.adobe.com/pt/create/color-wheel" target="_blank">
+            <img src="images/button.png" />
+        </a>
     <br><br>
     <img src="images/adobe-color-picker.png" />
 </details>
@@ -35,7 +41,9 @@ Heres a collection of links with usefull websites and tips.
 <details>
     <summary>Color scheme generator</summary>
     <br>
-        <a href="https://coolors.co/" target="_blank">Access</a>
+        <a href="https://coolors.co/" target="_blank">
+            <img src="images/button.png" />
+        </a>
     <br><br>
     <img src="images/scheme-generator.png" />
 </details>
@@ -44,7 +52,9 @@ Heres a collection of links with usefull websites and tips.
 <details>
     <summary>Color scheme picker</summary>
     <br>
-        <a href="https://www.schemecolor.com/" target="_blank">Access</a>
+        <a href="https://www.schemecolor.com/" target="_blank">
+            <img src="images/button.png" />
+        </a>
     <br><br>
     <img src="images/color-scheme-picker.png" />
 </details>
@@ -53,7 +63,9 @@ Heres a collection of links with usefull websites and tips.
 <details>
     <summary>Flat ui colors 2</summary>
     <br>
-        <a href="https://flatuicolors.com/" target="_blank">Access</a>
+        <a href="https://flatuicolors.com/" target="_blank">
+            <img src="images/button.png" />
+        </a>
     <br><br>
     <img src="images/flatuicolors.png" />
 </details>
@@ -62,7 +74,9 @@ Heres a collection of links with usefull websites and tips.
 <details>
     <summary>Free vectors</summary>
     <br>
-        <a href="https://www.flaticon.com/" target="_blank">Access</a>
+        <a href="https://www.flaticon.com/" target="_blank">
+            <img src="images/button.png" />
+        </a>
     <br><br>
     <img src="images/flaticon.png" />
 </details>
@@ -71,7 +85,9 @@ Heres a collection of links with usefull websites and tips.
 <details>
     <summary>Logo maker</summary>
     <br>
-        <a href="https://logomakr.com/" target="_blank">Access</a>
+        <a href="https://logomakr.com/" target="_blank">
+            <img src="images/button.png" />
+        </a>
     <br><br>
     <img src="images/logomakr.png" />
 </details>
@@ -80,7 +96,9 @@ Heres a collection of links with usefull websites and tips.
 <details>
     <summary>Bloby svg generator</summary>
     <br>
-        <a href="https://bloby.co/" target="_blank">Access</a>
+        <a href="https://bloby.co/" target="_blank">
+            <img src="images/button.png" />
+        </a>
     <br><br>
     <img src="images/blobysvg.png" />
 </details>
@@ -89,7 +107,9 @@ Heres a collection of links with usefull websites and tips.
 <details>
     <summary>Boring avatar generator</summary>
     <br>
-        <a href="https://boringavatars.com/" target="_blank">Access</a>
+        <a href="https://boringavatars.com/" target="_blank">
+            <img src="images/button.png" />
+        </a>
     <br><br>
     <img src="images/boringavatars.png" />
 </details>
@@ -98,7 +118,9 @@ Heres a collection of links with usefull websites and tips.
 <details>
     <summary>Front end toolbox</summary>
     <br>
-        <a href="https://www.akshay.rocks/resources" target="_blank">Access</a>
+        <a href="https://www.akshay.rocks/resources" target="_blank">
+            <img src="images/button.png" />
+        </a>
     <br><br>
     <img src="images/skshay.png" />
 </details>
