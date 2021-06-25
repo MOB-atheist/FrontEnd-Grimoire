@@ -8,7 +8,7 @@ Heres a collection of links with usefull websites and tips.
 <details>
     <summary>Image color picker</summary>
     <br>
-        <a href="https://imagecolorpicker.com/pt-pt" target="_blank">
+        <a href="https://imagecolorpicker.com/pt-pt" target="blank">
             <img src="images/button.png" />
         </a>
     <br><br>
