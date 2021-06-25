@@ -1,6 +1,8 @@
-# learning
+# Front End Grimoire
 
-In this repository i'll add a collection of snippets with knoledge i acquire in my front end journey.
+<img src="icon.png" />
+
+In this repository i'll add a collection of snippets acquired from diferrent people, feel free to make pull requests.
 
 ## Documents
 
