@@ -19,9 +19,7 @@ Heres a collection of links with usefull websites and tips.
     <br>
         <a href="https://ui-snippets.dev/" target="_blank">Access</a>
     <br><br>
-    <pre>
-        <img src="images/ui-snippets.png" />
-    </pre>
+    <img src="images/ui-snippets.png" />
 </details>
 
 <br>
@@ -30,9 +28,7 @@ Heres a collection of links with usefull websites and tips.
     <br>
         <a href="https://color.adobe.com/pt/create/color-wheel" target="_blank">Access</a>
     <br><br>
-    <pre>
-        <img src="images/adobe-color-picker.png" />
-    </pre>
+    <img src="images/adobe-color-picker.png" />
 </details>
 
 <br>
@@ -41,9 +37,7 @@ Heres a collection of links with usefull websites and tips.
     <br>
         <a href="https://coolors.co/" target="_blank">Access</a>
     <br><br>
-    <pre>
-        <img src="images/scheme-generator.png" />
-    </pre>
+    <img src="images/scheme-generator.png" />
 </details>
 
 <br>
@@ -52,9 +46,7 @@ Heres a collection of links with usefull websites and tips.
     <br>
         <a href="https://www.schemecolor.com/" target="_blank">Access</a>
     <br><br>
-    <pre>
-        <img src="images/color-scheme-picker.png" />
-    </pre>
+    <img src="images/color-scheme-picker.png" />
 </details>
 
 <br>
@@ -63,9 +55,7 @@ Heres a collection of links with usefull websites and tips.
     <br>
         <a href="https://flatuicolors.com/" target="_blank">Access</a>
     <br><br>
-    <pre>
-        <img src="images/flatuicolors.png" />
-    </pre>
+    <img src="images/flatuicolors.png" />
 </details>
 
 <br>
@@ -74,9 +64,7 @@ Heres a collection of links with usefull websites and tips.
     <br>
         <a href="https://www.flaticon.com/" target="_blank">Access</a>
     <br><br>
-    <pre>
-        <img src="images/flaticon.png" />
-    </pre>
+    <img src="images/flaticon.png" />
 </details>
 
 <br>
@@ -85,9 +73,7 @@ Heres a collection of links with usefull websites and tips.
     <br>
         <a href="https://logomakr.com/" target="_blank">Access</a>
     <br><br>
-    <pre>
-        <img src="images/logomakr.png" />
-    </pre>
+    <img src="images/logomakr.png" />
 </details>
 
 <br>
@@ -96,9 +82,7 @@ Heres a collection of links with usefull websites and tips.
     <br>
         <a href="https://bloby.co/" target="_blank">Access</a>
     <br><br>
-    <pre>
-        <img src="images/blobysvg.png" />
-    </pre>
+    <img src="images/blobysvg.png" />
 </details>
 
 <br>
@@ -107,9 +91,7 @@ Heres a collection of links with usefull websites and tips.
     <br>
         <a href="https://boringavatars.com/" target="_blank">Access</a>
     <br><br>
-    <pre>
-        <img src="images/boringavatars.png" />
-    </pre>
+    <img src="images/boringavatars.png" />
 </details>
 
 <br>
@@ -118,7 +100,5 @@ Heres a collection of links with usefull websites and tips.
     <br>
         <a href="https://www.akshay.rocks/resources" target="_blank">Access</a>
     <br><br>
-    <pre>
-        <img src="images/skshay.png" />
-    </pre>
+    <img src="images/skshay.png" />
 </details>
