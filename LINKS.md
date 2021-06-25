@@ -11,7 +11,7 @@ Heres a collection of links with usefull websites and tips.
         <a href="https://imagecolorpicker.com/pt-pt" target="_blank">Access</a>
     <br><br>
     <pre>
-        <img src="images/image-color-picker.png" width="100%" />
+        <img src="images/image-color-picker.png" style="max-width:100%;" />
     </pre>
 </details>
 
