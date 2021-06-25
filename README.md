@@ -10,7 +10,7 @@ In this repository i'll add a collection of snippets acquired from diferrent peo
 
 - [React.js](REACTJS.md)
 
-- [UI](UI.md)
+- [Usefull links](LINKS.md)
 
 ## Sources 
 - [sitepoint](https://www.sitepoint.com/shorthand-javascript-techniques/)
