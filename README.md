@@ -4,7 +4,7 @@
     <img src="icon.png" />
 </div>
 
-In this repository i'll add a collection of snippets acquired from diferrent people, feel free to make pull requests.
+In this repository i'll add a collection of snippets acquired from diferent people, feel free to make pull requests.
 
 ## Documents
 
