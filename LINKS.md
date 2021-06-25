@@ -124,3 +124,14 @@ Heres a collection of links with usefull websites and tips.
     <br><br>
     <img src="images/skshay.png" />
 </details>
+<br>
+<details>
+    <summary>Nice Avatar</summary>
+    <br>
+        <a href="https://nice-avatar.chilllab.io/?ref=producthunt" >
+            <img src="images/button.png" />
+        </a>
+    <br><br>
+    <img src="images/niceavatar.png" />
+</details>
+

@@ -1,22 +1,25 @@
-# Front End Grimoire
+# <div align="center"> Front End Grimoire </div>
 
-<img src="icon.png" />
+<div align="center">
+    <img src="icon.png" />
+</div>
 
 In this repository i'll add a collection of snippets acquired from diferrent people, feel free to make pull requests.
 
 ## Documents
 
-- [Javascript](JAVASCRIPT.md)
+-   [Javascript](JAVASCRIPT.md)
 
-- [React.js](REACTJS.md)
+-   [React.js](REACTJS.md)
 
-- [Usefull links](LINKS.md)
+-   [Usefull links](LINKS.md)
 
-## Sources 
-- [sitepoint](https://www.sitepoint.com/shorthand-javascript-techniques/)
+## Sources
 
-- [devdojo](https://devdojo.com/emmaturner/20-javascript-shorthand-to-save-time)
+-   [sitepoint](https://www.sitepoint.com/shorthand-javascript-techniques/)
 
-- [Fireshit](https://youtu.be/TNhaISOUy6Q)
+-   [devdojo](https://devdojo.com/emmaturner/20-javascript-shorthand-to-save-time)
 
-- [Product hunt](https://www.producthunt.com/)
+-   [Fireshit](https://youtu.be/TNhaISOUy6Q)
+
+-   [Product hunt](https://www.producthunt.com/)
