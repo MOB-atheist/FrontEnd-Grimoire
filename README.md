@@ -18,3 +18,5 @@ In this repository i'll add a collection of snippets acquired from diferrent peo
 - [devdojo](https://devdojo.com/emmaturner/20-javascript-shorthand-to-save-time)
 
 - [Fireshit](https://youtu.be/TNhaISOUy6Q)
+
+- [Product hunt](https://www.producthunt.com/)
