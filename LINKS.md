@@ -124,6 +124,7 @@ Heres a collection of links with usefull websites and tips.
     <br><br>
     <img src="images/skshay.png" />
 </details>
+
 <br>
 <details>
     <summary>Nice Avatar</summary>
@@ -133,5 +134,16 @@ Heres a collection of links with usefull websites and tips.
         </a>
     <br><br>
     <img src="images/niceavatar.png" />
+</details>
+
+<br>
+<details>
+    <summary>Tinter</summary>
+    <br>
+        <a href="https://tinter.uxie.io/" >
+            <img src="images/button.png" />
+        </a>
+    <br><br>
+    <img src="images/tinter.png" />
 </details>
 
