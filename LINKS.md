@@ -168,3 +168,14 @@ Heres a collection of links with usefull websites and tips.
     <br><br>
     <img src="images/mycolor.png" />
 </details>
+
+<br>
+<details>
+    <summary>Animista</summary>
+    <br>
+        <a href="https://animista.net/" >
+            <img src="images/button.png" />
+        </a>
+    <br><br>
+    <img src="images/animista.png" />
+</details>
