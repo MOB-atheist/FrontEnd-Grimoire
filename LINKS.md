@@ -147,3 +147,13 @@ Heres a collection of links with usefull websites and tips.
     <img src="images/tinter.png" />
 </details>
 
+<br>
+<details>
+    <summary>Social Meta tags</summary>
+    <br>
+        <a href="https://shashiirk.github.io/social-tags/" >
+            <img src="images/button.png" />
+        </a>
+    <br><br>
+    <img src="images/social_tags.png" />
+</details>
