@@ -3,6 +3,10 @@
 
 # Javascript
 
+## usefull links
+
+[ES6 cheat sheet](http://www.developer-cheatsheets.com/es6)
+
 ### if shorthands
 
 ```javascript

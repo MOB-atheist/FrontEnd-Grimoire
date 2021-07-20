@@ -3,6 +3,14 @@
 
 # React.js
 
+## usefull links
+
+[React cheat sheet](http://www.developer-cheatsheets.com/react)
+
+[Redux cheat sheet](http://www.developer-cheatsheets.com/redux)
+
+[React Router cheat sheet](http://www.developer-cheatsheets.com/react-router)
+
 ### useState
 
 ```jsx

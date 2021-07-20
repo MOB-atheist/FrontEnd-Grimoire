@@ -23,3 +23,5 @@ In this repository i'll add a collection of snippets acquired from different peo
 -   [Fireshit](https://youtu.be/TNhaISOUy6Q)
 
 -   [Product hunt](https://www.producthunt.com/)
+
+-   [insha](https://dev.to/insha/the-ultimate-cheat-sheet-list-for-web-developers-2i9i)

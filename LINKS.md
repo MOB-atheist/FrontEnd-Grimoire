@@ -190,3 +190,47 @@ Heres a collection of links with usefull websites and tips.
     <br><br>
     <img src="images/iconscout.png" />
 </details>
+
+<br>
+<details>
+    <summary>css references</summary>
+    <br>
+        <a href="https://cssreference.io/" >
+            <img src="images/button.png" />
+        </a>
+    <br><br>
+    <img src="images/cssreference.png" />
+</details>
+
+<br>
+<details>
+    <summary>html cheat sheet</summary>
+    <br>
+        <a href="https://htmlcheatsheet.com/" >
+            <img src="images/button.png" />
+        </a>
+    <br><br>
+    <img src="images/htmlcheatsheet.png" />
+</details>
+
+<br>
+<details>
+    <summary>html reference</summary>
+    <br>
+        <a href="https://htmlreference.io/" >
+            <img src="images/button.png" />
+        </a>
+    <br><br>
+    <img src="images/htmlreference.png" />
+</details>
+
+<br>
+<details>
+    <summary>Grid cheat sheet</summary>
+    <br>
+        <a href="https://grid.malven.co/" >
+            <img src="images/button.png" />
+        </a>
+    <br><br>
+    <img src="images/gridcheatsheet.png" />
+</details>
