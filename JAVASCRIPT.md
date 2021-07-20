@@ -177,3 +177,30 @@
 ```javascript
     alert(new Array() == false); // evaluates true
 ```
+
+### You can use vibration on the browser
+check compatibility on: [vibrate()](https://developer.mozilla.org/en-US/docs/Web/API/Navigator/vibrate)
+
+```javascript
+    window.navigator.vibrate(500); // Vibrates for 500 miliseconds
+```
+
+### You can get the some network info from the clinet, like download speed
+check compatibility on: [navigator.connection](https://developer.mozilla.org/en-US/docs/Web/API/Navigator/connection),
+[rtt](https://developer.mozilla.org/en-US/docs/Web/API/NetworkInformation/rtt),
+[downlink](https://developer.mozilla.org/en-US/docs/Web/API/NetworkInformation/downlink),
+[effectiveType](https://developer.mozilla.org/en-US/docs/Web/API/NetworkInformation/effectiveType)
+
+```javascript
+    console.log(navigator.connection.rtt); // Latency
+    console.log(navigator.connection.effectiveType) // kind of connection the internet speed aproaches best
+    console.log(navigator.connection.downlink); // Doanload speed in megabits per second
+```
+
+### Prohibiting paste action
+
+```javascript
+    input.addEventListener("paste", function(e){
+        e.preventDefault() // prevents default action
+    })
+```
