@@ -244,7 +244,7 @@ Heres a collection of links with usefull websites and tips.
             <img src="images/button.png" />
         </a>
     <br><br>
-    <img src="images/humaaans.gif" />
+    <img src="images/humaaans.png" />
 </details>
 
 <br>
