@@ -235,6 +235,18 @@ Heres a collection of links with usefull websites and tips.
     <img src="images/gridcheatsheet.png" />
 </details>
 
+
+<br>
+<details>
+    <summary>humaaans!</summary>
+    <br>
+        <a href="https://blush.design/collections/humaaans/humaaans" >
+            <img src="images/button.png" />
+        </a>
+    <br><br>
+    <img src="images/humaaans.gif" />
+</details>
+
 <br>
 <details>
     <summary>Also,free rocketseat courses tutorial!</summary>
@@ -245,4 +257,3 @@ Heres a collection of links with usefull websites and tips.
     <br><br>
     <img src="images/nice.gif" />
 </details>
-
