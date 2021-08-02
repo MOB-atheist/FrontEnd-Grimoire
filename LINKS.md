@@ -249,6 +249,17 @@ Heres a collection of links with usefull websites and tips.
 
 <br>
 <details>
+    <summary>Wicked Backgrounds</summary>
+    <br>
+        <a href="https://wickedbackgrounds.com/index.html" >
+            <img src="images/button.png" />
+        </a>
+    <br><br>
+    <img src="images/wickedbackgrounds.png" />
+</details>
+
+<br>
+<details>
     <summary>Also,free rocketseat courses tutorial!</summary>
     <br>
         <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley" >
