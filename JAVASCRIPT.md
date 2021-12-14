@@ -10,19 +10,17 @@
 ### if shorthands
 
 ```javascript
-    const trueValue = true
-    const falseValue = true
 
-    console.log(trueValue ? "its true": "its false")
+    console.log(true ? "its true": "its false")
     // returns its true or its false
 
-    console.log(trueValue && "its true")
+    console.log(true && "its true")
     // returns its true Or boolean false
 
-    console.log(trueValue && "its true" && "its false")
+    console.log(true && "its true" && "its false")
     // returns its true Or its false
 
-    console.log(falseValue || "its false")
+    console.log(false || "its false")
     // returns value not (undefined, false, null, 0)
 
 ```
