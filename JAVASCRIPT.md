@@ -15,13 +15,22 @@
     // returns its true or its false
 
     console.log(true && "its true")
-    // returns its true Or boolean false
+    // returns its true
+    
+     console.log(false && "its true")
+    // returns Boolean false
 
     console.log(true && "its true" && "its false")
-    // returns its true Or its false
+    // returns "its true"
 
     console.log(false || "its false")
-    // returns value not (undefined, false, null, 0)
+    // returns "its false"
+
+    // You can also test some values
+    console.log(null || "false") // returns "false"
+    console.log(NaN || "its false") // returns "false"
+    console.log(undefined || "its false") // returns "false"
+    console.log('' || "its false") // returns "false"
 
 ```
 
