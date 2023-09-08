@@ -1,18 +1,22 @@
 # <div align="center"> Front End Grimoire </div>
 
 <div align="center">
-    <img src="icon.png" />
+    <img src="images/mystical_book.png" height="200px" />
 </div>
 
-In this repository i'll add a collection of snippets acquired from different people, feel free to make pull requests.
+This repository is a collection of knowledge aquired by everyone involved on its making, feel free to request to join us.
 
 ## Documents
 
--   [Javascript](JAVASCRIPT.md)
+- [Javascript](JAVASCRIPT.md)
+    - [Usefull Links](JAVASCRIPT.md#usefull-links)
+    - [Odities](JAVASCRIPT.md#javascript-odities)
 
 -   [React.js](REACTJS.md)
+    - [Usefull Links](REACTJS.md#usefull-links)
+    - [Usefull Links](REACTJS.md#usefull-links)
 
--   [Usefull links](LINKS.md)
+-   [Usefull links in general](LINKS.md)
 
 ## Sources
 
