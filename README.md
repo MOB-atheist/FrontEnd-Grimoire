@@ -1,4 +1,4 @@
-# <div align="center"> Front End Grimoire </div>
+<h1 align="center"> Front End Grimoire </h1>
 
 <div align="center">
     <img src="images/mystical_book.png" height="200px" />
