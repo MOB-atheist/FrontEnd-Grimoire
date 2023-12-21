@@ -1,0 +1,8 @@
+header_pages:
+  - README.md
+  - JAVASCRIPT.md
+  - REACTJS.md
+  - LINKS.md
+
+style: dark # dark (default), light or hacker
+listen_for_clients_preferred_style: true # false (default) or true
