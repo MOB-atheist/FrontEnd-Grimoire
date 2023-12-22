@@ -4,7 +4,13 @@
     <img src="images/mystical_book.png" height="300px" />
 </div>
 
-<p align="center">Thjis grimoir is a collection of knoledge from different languages and environments, in its current form its quite small, we plan to make it bigger so it can help others better understand the tools they use daily, any help is welcomed, plese have a look into <a href="CONTRIBUTING.md">Contributions</a>, and also our <a href="CODE_OF_CONDUCT.md">Code of conduct</a>.</p>
+<p align="center">In the ever-expanding tapestry of knowledge, this grimoire is a synthesis of diverse languages and environments, a beacon to illuminate the pathways of understanding for those who navigate the realms of code.</p>
+
+<p align="center">As it stands, our grimoire is but a humble collection, yearning to grow and evolve. Your contribution is not merely welcomed but revered. Venture forth into the sacred scrolls of <a href="CONTRIBUTING.md">Contributions</a> and immerse yourself in the guiding principles. Here, every incantation and enchantment adds a verse to the magical hymn of collective knowledge.</p>
+
+<p align="center">Yet, let not the pursuit of wisdom obscure the path of respect and camaraderie. Behold the <a href="CODE_OF_CONDUCT.md">Code of conduct</a>, a code of honor that unites the denizens of this mystical realm.</p>
+
+<p align="center">May your presence in this grimoire be a testament to the collaborative spirit, and may the magic you weave resonate across the coding realms! 🌌📖</p>
 
 <h2 align="center">Documents</h2>
 
