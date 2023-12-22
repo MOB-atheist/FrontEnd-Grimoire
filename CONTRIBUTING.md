@@ -1,7 +1,5 @@
 # Contributing to FrontEnd Grimoire
 
-Hey you!!! Yes you... ⛏️ Unleash Your Inner Dwarf - Contribute with Grit! ⛏️
-
 Ahoy, brave wanderer! Grab your tools – pickaxe, shovel, or bare hands – and delve into the heart of our project. Lost? Consult the Magic Spells Glossary. For those seeking a different rock, navigate the words; we speak English, but Gibberish is our true tongue. Contribute your wisdom, and let the dwarven celebration begin! 🎉
 
 > Fear Not, Apprentice! Cast Your Supporting Spells, If the thought of battling goblins in the depths of the mine gives you shivers, fret not! Channel your magical energies into these enchanting spells to aid our quest:
