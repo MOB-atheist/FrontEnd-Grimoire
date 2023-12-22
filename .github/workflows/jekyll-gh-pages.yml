@@ -28,43 +28,20 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
-      - name: Creating processed folder
-        run: mkdir -p processed
-      - name: Converts Markdown to HTML
-        uses: jaywcjlove/markdown-to-html-cli@main
-        with:
-          source: ./
-          output: ./processed/index.html
-          github-corners: https://github.com/jaywcjlove/markdown-to-html-cli
-          favicon: data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🌐</text></svg>
-      - name: Find and Replace JAVASCRIPT.md links
-        uses: jacobtomlinson/gha-find-replace@v3
-        with:
-          find: "JAVASCRIPT.md"
-          replace: "JAVASCRIPT.html"
-          include: "processed/**"
-          regex: true
-      - name: Find and Replace REACTJS.md links
-        uses: jacobtomlinson/gha-find-replace@v3
-        with:
-          find: "REACTJS.md"
-          replace: "REACTJS.html"
-          include: "processed/**"
-          regex: true
-      - name: Find and Replace LINKS.md links
-        uses: jacobtomlinson/gha-find-replace@v3
-        with:
-          find: "LINKS.md"
-          replace: "LINKS.html"
-          include: "processed/**"
-          regex: true
       - name: Setup Pages
         uses: actions/configure-pages@v4
       - name: Build with Jekyll
         uses: actions/jekyll-build-pages@v1
         with:
-          source: ./processed
+          source: ./
           destination: ./_site
+      - name: Find and Replace JAVASCRIPT.md links
+        uses: jacobtomlinson/gha-find-replace@v3
+        with:
+          find: "**.md"
+          replace: ".html"
+          include: "_site/**"
+          regex: true
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v2
 
