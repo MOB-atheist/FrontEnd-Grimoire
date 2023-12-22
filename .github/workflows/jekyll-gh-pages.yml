@@ -43,6 +43,8 @@ jobs:
         with:
           source: ./
           destination: ./_site
+      - name: Get all yaml files
+        uses: the-coding-turtle/ga-file-list@v0.1
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v2
 
