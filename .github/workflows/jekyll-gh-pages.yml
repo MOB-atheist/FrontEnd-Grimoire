@@ -38,7 +38,7 @@ jobs:
       - name: Find and Replace JAVASCRIPT.md links
         uses: jacobtomlinson/gha-find-replace@v3
         with:
-          find: "**.md"
+          find: ".md"
           replace: ".html"
           include: "_site/**"
           regex: true
