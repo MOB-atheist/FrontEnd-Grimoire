@@ -36,7 +36,7 @@ jobs:
         with:
           find: ".md"
           replace: ".html"
-          include: "**/*.md"
+          include: "**.md"
           regex: true
       - name: Build with Jekyll
         uses: actions/jekyll-build-pages@v1
