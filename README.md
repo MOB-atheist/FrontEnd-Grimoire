@@ -1,7 +1,7 @@
 <h1 align="center"> Front End Grimoire </h1>
 
 <div align="center">
-    <img src="images/mystical_book.png" height="300px" />
+    <img src="images/mystical_book.png" height="50%" />
 </div>
 
 <p align="center">In the ever-expanding tapestry of knowledge, this grimoire is a synthesis of diverse languages and environments, a beacon to illuminate the pathways of understanding for those who navigate the realms of code.</p>
