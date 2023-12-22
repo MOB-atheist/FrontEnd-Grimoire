@@ -30,18 +30,19 @@ jobs:
         uses: actions/checkout@v4
       - name: Setup Pages
         uses: actions/configure-pages@v4
-      - name: Build with Jekyll
-        uses: actions/jekyll-build-pages@v1
-        with:
-          source: ./
-          destination: ./_site
+      
       - name: Find and Replace JAVASCRIPT.md links
         uses: jacobtomlinson/gha-find-replace@v3
         with:
           find: ".md"
           replace: ".html"
-          include: "_site/**/*.html"
+          include: "**/*.md"
           regex: true
+      - name: Build with Jekyll
+        uses: actions/jekyll-build-pages@v1
+        with:
+          source: ./
+          destination: ./_site
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v2
 
