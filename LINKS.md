@@ -1,270 +1,223 @@
-# USEFULL LINKS
 
-[Go Back](README.md)
+<h1 align="center">USEFULL LINKS</h1>
 
-Heres a collection of links with usefull websites and tips.
+<a href="/">Go Back</a>
+
+<h3 align="center">Heres a collection of links with usefull websites and tips.</h3>
 
 <br>
-<details>
+<details align="center">
     <summary>Image color picker</summary>
     <br>
-        <a href="https://imagecolorpicker.com/pt-pt" >
-            <img src="images/button.png" />
-        </a>
+        <a href="https://imagecolorpicker.com/pt-pt" >Open</a>
     <br><br>
-    <img src="images/image-color-picker.png"/>
+    <img src="images/image-color-picker.png" width="75%" align="center"/>
 </details>
 
 <br>
-<details>
+<details align="center">
     <summary>Ui Snippets</summary>
     <br>
-        <a href="https://ui-snippets.dev/" >
-            <img src="images/button.png" />
-        </a>
+        <a href="https://ui-snippets.dev/" >Open</a>
     <br><br>
-    <img src="images/ui-snippets.png" />
+    <img src="images/ui-snippets.png" width="75%"/>
 </details>
 
 <br>
-<details>
+<details align="center">
     <summary>Adobe color wheel</summary>
     <br>
-        <a href="https://color.adobe.com/pt/create/color-wheel" >
-            <img src="images/button.png" />
-        </a>
+        <a href="https://color.adobe.com/pt/create/color-wheel" >Open</a>
     <br><br>
-    <img src="images/adobe-color-picker.png" />
+    <img src="images/adobe-color-picker.png" width="75%" />
 </details>
 
 <br>
-<details>
+<details align="center">
     <summary>Color scheme generator</summary>
     <br>
-        <a href="https://coolors.co/" >
-            <img src="images/button.png" />
-        </a>
+        <a href="https://coolors.co/" >Open</a>
     <br><br>
-    <img src="images/scheme-generator.png" />
+    <img src="images/scheme-generator.png" width="75%" />
 </details>
 
 <br>
-<details>
+<details align="center">
     <summary>Color scheme picker</summary>
     <br>
-        <a href="https://www.schemecolor.com/" >
-            <img src="images/button.png" />
-        </a>
+        <a href="https://www.schemecolor.com/" >Open</a>
     <br><br>
-    <img src="images/color-scheme-picker.png" />
+    <img src="images/color-scheme-picker.png" width="75%" />
 </details>
 
 <br>
-<details>
+<details align="center">
     <summary>Flat ui colors 2</summary>
     <br>
-        <a href="https://flatuicolors.com/" >
-            <img src="images/button.png" />
-        </a>
+        <a href="https://flatuicolors.com/" >Open</a>
     <br><br>
-    <img src="images/flatuicolors.png" />
+    <img src="images/flatuicolors.png" width="75%" />
 </details>
 
 <br>
-<details>
+<details align="center">
     <summary>Free vectors</summary>
     <br>
-        <a href="https://www.flaticon.com/" >
-            <img src="images/button.png" />
-        </a>
+        <a href="https://www.flaticon.com/" >Open</a>
     <br><br>
-    <img src="images/flaticon.png" />
+    <img src="images/flaticon.png" width="75%" />
 </details>
 
 <br>
-<details>
+<details align="center">
     <summary>Logo maker</summary>
     <br>
-        <a href="https://logomakr.com/" >
-            <img src="images/button.png" />
-        </a>
+        <a href="https://logomakr.com/" >Open</a>
     <br><br>
-    <img src="images/logomakr.png" />
+    <img src="images/logomakr.png" width="75%" />
 </details>
 
 <br>
-<details>
+<details align="center">
     <summary>Bloby svg generator</summary>
     <br>
-        <a href="https://bloby.co/" >
-            <img src="images/button.png" />
-        </a>
+        <a href="https://bloby.co/" >Open</a>
     <br><br>
-    <img src="images/blobysvg.png" />
+    <img src="images/blobysvg.png" width="75%" />
 </details>
 
 <br>
-<details>
+<details align="center">
     <summary>Boring avatar generator</summary>
     <br>
-        <a href="https://boringavatars.com/" >
-            <img src="images/button.png" />
-        </a>
+        <a href="https://boringavatars.com/" >Open</a>
     <br><br>
-    <img src="images/boringavatars.png" />
+    <img src="images/boringavatars.png" width="75%" />
 </details>
 
 <br>
-<details>
+<details align="center">
     <summary>Front end toolbox</summary>
     <br>
-        <a href="https://www.akshay.rocks/resources" >
-            <img src="images/button.png" />
-        </a>
+        <a href="https://www.akshay.rocks/resources" >Open</a>
     <br><br>
-    <img src="images/skshay.png" />
+    <img src="images/skshay.png" width="75%" />
 </details>
 
 <br>
-<details>
+<details align="center">
     <summary>Nice Avatar</summary>
     <br>
-        <a href="https://nice-avatar.chilllab.io/?ref=producthunt" >
-            <img src="images/button.png" />
-        </a>
+        <a href="https://nice-avatar.chilllab.io/?ref=producthunt" >Open</a>
     <br><br>
-    <img src="images/niceavatar.png" />
+    <img src="images/niceavatar.png" width="75%" />
 </details>
 
 <br>
-<details>
+<details align="center">
     <summary>Tinter</summary>
     <br>
-        <a href="https://tinter.uxie.io/" >
-            <img src="images/button.png" />
-        </a>
+        <a href="https://tinter.uxie.io/" >Open</a>
     <br><br>
-    <img src="images/tinter.png" />
+    <img src="images/tinter.png" width="75%" />
 </details>
 
 <br>
-<details>
+<details align="center">
     <summary>Social Meta tags</summary>
     <br>
-        <a href="https://shashiirk.github.io/social-tags/" >
-            <img src="images/button.png" />
-        </a>
+        <a href="https://shashiirk.github.io/social-tags/" >Open</a>
     <br><br>
-    <img src="images/social_tags.png" />
+    <img src="images/social_tags.png" width="75%" />
 </details>
 
 <br>
-<details>
+<details align="center">
     <summary>MyColor</summary>
     <br>
-        <a href="https://mycolor.space/" >
-            <img src="images/button.png" />
-        </a>
+        <a href="https://mycolor.space/" >Open</a>
     <br><br>
-    <img src="images/mycolor.png" />
+    <img src="images/mycolor.png" width="75%" />
 </details>
 
 <br>
-<details>
+<details align="center">
     <summary>Animista</summary>
     <br>
-        <a href="https://animista.net/" >
-            <img src="images/button.png" />
-        </a>
+        <a href="https://animista.net/" >Open</a>
     <br><br>
-    <img src="images/animista.png" />
+    <img src="images/animista.png" width="75%" />
 </details>
 
 <br>
-<details>
+<details align="center">
     <summary>Iconscout</summary>
     <br>
-        <a href="https://iconscout.com/" >
-            <img src="images/button.png" />
-        </a>
+        <a href="https://iconscout.com/" >Open</a>
     <br><br>
-    <img src="images/iconscout.png" />
+    <img src="images/iconscout.png" width="75%" />
 </details>
 
 <br>
-<details>
+<details align="center">
     <summary>css references</summary>
     <br>
-        <a href="https://cssreference.io/" >
-            <img src="images/button.png" />
-        </a>
+        <a href="https://cssreference.io/" >Open</a>
     <br><br>
-    <img src="images/cssreference.png" />
+    <img src="images/cssreference.png" width="75%" />
 </details>
 
 <br>
-<details>
+<details align="center">
     <summary>html cheat sheet</summary>
     <br>
-        <a href="https://htmlcheatsheet.com/" >
-            <img src="images/button.png" />
-        </a>
+        <a href="https://htmlcheatsheet.com/" >Open</a>
     <br><br>
-    <img src="images/htmlcheatsheet.png" />
+    <img src="images/htmlcheatsheet.png" width="75%" />
 </details>
 
 <br>
-<details>
+<details align="center">
     <summary>html reference</summary>
     <br>
-        <a href="https://htmlreference.io/" >
-            <img src="images/button.png" />
-        </a>
+        <a href="https://htmlreference.io/" >Open</a>
     <br><br>
-    <img src="images/htmlreference.png" />
+    <img src="images/htmlreference.png" width="75%" />
 </details>
 
 <br>
-<details>
+<details align="center">
     <summary>Grid cheat sheet</summary>
     <br>
-        <a href="https://grid.malven.co/" >
-            <img src="images/button.png" />
-        </a>
+        <a href="https://grid.malven.co/" >Open</a>
     <br><br>
-    <img src="images/gridcheatsheet.png" />
+    <img src="images/gridcheatsheet.png" width="75%" />
 </details>
 
 
 <br>
-<details>
+<details align="center">
     <summary>humaaans!</summary>
     <br>
-        <a href="https://blush.design/collections/humaaans/humaaans" >
-            <img src="images/button.png" />
-        </a>
+        <a href="https://blush.design/collections/humaaans/humaaans" >Open</a>
     <br><br>
-    <img src="images/humaaans.png" />
+    <img src="images/humaaans.png" width="75%" />
 </details>
 
 <br>
-<details>
+<details align="center">
     <summary>Wicked Backgrounds</summary>
     <br>
-        <a href="https://wickedbackgrounds.com/index.html" >
-            <img src="images/button.png" />
-        </a>
+        <a href="https://wickedbackgrounds.com/index.html" >Open</a>
     <br><br>
-    <img src="images/wickedbackgrounds.png" />
+    <img src="images/wickedbackgrounds.png" width="75%" />
 </details>
 
 <br>
-<details>
+<details align="center">
     <summary>Also,free rocketseat courses tutorial!</summary>
     <br>
-        <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley" >
-            <img src="images/button.png" />
-        </a>
+        <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley" >Open</a>
     <br><br>
-    <img src="images/nice.gif" />
+    <img src="images/nice.gif" width="75%" />
 </details>
